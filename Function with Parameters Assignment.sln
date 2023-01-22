@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Function with Parameters Assignment", "Function with Parameters Assignment\Function with Parameters Assignment.pyproj", "{BC95D5DE-B4F7-4895-AB9D-27911F9688A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC95D5DE-B4F7-4895-AB9D-27911F9688A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC95D5DE-B4F7-4895-AB9D-27911F9688A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5165B56B-01E6-474E-8D77-13378C7B64B9}
+	EndGlobalSection
+EndGlobal
